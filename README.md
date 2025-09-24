@@ -55,5 +55,4 @@ mongoose-schema/
 ✅ Output
 ![WhatsApp Image 2025-09-19 at 09 39 49_61ee7fe2](https://github.com/user-attachments/assets/dd46d2bf-9ff2-42b8-b9a0-9fdc873f39fc)
 ![WhatsApp Image 2025-09-19 at 09 39 50_3b4848b6](https://github.com/user-attachments/assets/0de0927d-8890-44e1-9336-6eec9503302e)
-![WhatsApp Image 2025-09-19 at 09 39 50_48761756](https://github.com/user-attachments/assets/eea8c182-8f88-4aec-bb17-8946785aec08)
 
